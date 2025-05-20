@@ -5,7 +5,7 @@
 //  Created by august moore on 06/03/2025.
 //
 
-import Foundation
+import StorageService
 
 struct DataManager {
     static let posts: [Post] = [
